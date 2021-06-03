@@ -5,7 +5,7 @@ ShadowCast is a simple  [virtual tabletop](https://www.dnd-compendium.com/dm-res
 ## Table of Contents
 * [Usage](Usage)
 * [Technologies](Technologies)
-* [Addational information](Addational information)
+* [Addational](Addational)
 
 
 ## Usage
@@ -22,5 +22,5 @@ You have option to create tokens, items and groups via options menu. From there 
 ## Technologies
 This project uses [Qt framework](https://www.qt.io/) under [LGPL license](https://www.gnu.org/licenses/lgpl-3.0.en.html).
 
-## Addational information
+## Addational
 Background image in Presentation.sc file and on the example screenshot can be found [here](https://2minutetabletop.com/dungeon-jail-prison-battle-map/). I'm not the owner of this graphic.
