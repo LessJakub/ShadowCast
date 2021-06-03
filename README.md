@@ -1,6 +1,6 @@
 # ShadowCast
 
-ShadowCast is a simple  [virtual tabletop](https://www.dnd-compendium.com/dm-resources/virtual-tabletops) application that can be used to simiulate field of view for your RPG games.
+ShadowCast is a simple  [virtual tabletop](https://www.dnd-compendium.com/dm-resources/virtual-tabletops) application that can be used to simiulate field of view for your RPG games. This project was created during fourth semester of my studies at Silesian University of Technology.
 
 ## Table of Contents
 * [Usage](Usage)
